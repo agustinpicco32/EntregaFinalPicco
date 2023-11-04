@@ -6,7 +6,7 @@ const NavBar = () => {
     return(
         <nav className="NavBar">
             <Link to="/">
-                <h3>Neo Ecommerce</h3>
+                <h3>Sushi World</h3>
             </Link>
             <div className="navbar-menu">
                 
@@ -20,4 +20,4 @@ const NavBar = () => {
     )
 };
 
-export default NavBar
+export default NavBar;

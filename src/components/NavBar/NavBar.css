@@ -3,16 +3,16 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
-    background-color: gray;
+    background-color: rgb(101, 188, 169);
     height: 60px;
 
 }
 
 .navbar-menu{
     justify-content: space-evenly;
-    background-color: rgb(94, 150, 94);
     border-radius: 4px;
     color:white;
+    background-color: rgba(219, 239, 235, 0.6);
 
 }
 a{text-decoration: none;
